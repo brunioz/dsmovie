@@ -1,3 +1,3 @@
-##Projeto upado na netlify !
+## Projeto upado na netlify !
 
-#Link: https://bruniozdsmovie.netlify.app
+# Link: https://bruniozdsmovie.netlify.app
